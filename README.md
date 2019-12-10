@@ -54,6 +54,7 @@ Please find below predicted vs actual using FNG model
 
 ![table](https://github.com/andreaovelar/DeepLearning_HW/blob/master/FNG.PNG "FNG")
 
+## Conclusions 
 * Which model has a lower loss? Closing prices model
 * Which model tracks the actual values better over time? Closing prices model
 * Which window size works best for the model? Best window size is 2 
