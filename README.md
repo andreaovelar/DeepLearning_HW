@@ -19,6 +19,34 @@ window size 3
 loss: 0.0319  
 0.02997160991538822  
 
+window size 4  
+loss: 0.0385  
+0.0607875673139983 
+
+window size 5  
+loss: 0.0178  
+0.01787554366905012  
+
+window size 6  
+loss: 0.0319  
+0.02997160991538822  
+
+window size 7  
+loss: 0.0319  
+0.02997160991538822  
+
+window size 8  
+loss: 0.0385  
+0.0607875673139983 
+
+window size 9  
+loss: 0.0178  
+0.01787554366905012  
+
+window size 10  
+loss: 0.0319  
+0.02997160991538822  
+
 
 #### 2. Using FNG values
 
